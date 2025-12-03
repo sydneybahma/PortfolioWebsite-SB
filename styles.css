@@ -46,7 +46,7 @@ nav a {
     background: #fff;
     margin-bottom: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(199,21,133,0.5);
 }
 
 .project-grid {
@@ -59,7 +59,7 @@ nav a {
     background: #fff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(199,21,133,0.5);
 }
 
 .project-card h3 {
